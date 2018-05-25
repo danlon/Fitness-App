@@ -5,3 +5,23 @@ mat-sidenav-container, mat-sidenav-contetn, mat-sidenav {
 mat-sidenav {
     width: 220px;
 }
+
+
+.nav-items {
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+}
+
+
+a {
+    text-decoration: none;
+    color: azure;
+
+}
+
+a:hover,
+a:active {
+    color: black;
+
+}
